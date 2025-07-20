@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background: #e0f7fa;
+  font-family: sans-serif;
+}
+
+.weather-box {
+  margin-top: 50px;
+  padding: 20px;
+  background: white;
+  display: inline-block;
+  border-radius: 10px;
+}
