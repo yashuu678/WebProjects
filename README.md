@@ -1,13 +1,15 @@
-# 🔢 Calculator Web App
+# 🌦 Weather App
 
-A basic calculator built using HTML, CSS, and JavaScript.
+Fetches real-time weather using the OpenWeatherMap API.
 
 ## Features
-- Addition, Subtraction, Multiplication, Division
-- Clean UI
+- City-based weather search
+- Temperature in Celsius
+- Weather condition display
 
-## How to Run
-Open `index.html` in browser
+## Setup
+1. Replace `YOUR_API_KEY` in `script.js` with your OpenWeatherMap API key.
+2. Open `index.html` in browser.
 
 ## Author
 [Your Name]
